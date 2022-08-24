@@ -1,0 +1,128 @@
+{
+  "Most-Wanted": [
+    {
+      "id": 4,
+      "kode": "Laptop-01",
+      "nama": "Vivobook Flip 14 TP401",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-satu.jpg",
+      "specification": "Windows 10 Home - ASUS recommends Windows 10 Pro for business Windows 11 Home - ASUS recommends Windows 11 Pro for business, Free Upgrade to Windows 11",
+      "for": "drakor/design"
+    },
+    {
+      "id": 5,
+      "kode": "Laptop-02",
+      "nama": "Lenovo Flip 14 TP412",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-dua.jpg",
+      "specification": "13.3 OLED 4K NanoEdge Display // 11th Gen Intel® Core™ i7 Processor // 16/1TB SSD",
+      "for": "kuliah/college"
+    },
+    {
+      "id": 6,
+      "kode": "Laptop-03",
+      "nama": "Samsung Pro 14X OLED",
+      "harga": 16067000,
+      "is_ready": true,
+      "gambar": "laptop-tiga.jpg",
+      "specification": "Intel® Core™ i7-10510U Processor // NVIDIA® GeForce® MX250 // 16/1TB SSD // Layar 14 FHD (1920 x 1080) 16:9",
+      "for": "kerja/work"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "kode": "Laptop-01",
+      "nama": "Vivobook Flip 14 TP401",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-asus.jpg",
+      "specification": "Windows 10 Home - ASUS recommends Windows 10 Pro for business Windows 11 Home - ASUS recommends Windows 11 Pro for business, Free Upgrade to Windows 11",
+      "for": "drakor/design"
+    },
+    {
+      "id": 2,
+      "kode": "Laptop-02",
+      "nama": "Lenovo Flip 14 TP412",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-lenovo.jpg",
+      "specification": "13.3 OLED 4K NanoEdge Display // 11th Gen Intel® Core™ i7 Processor // 16/1TB SSD",
+      "for": "kuliah/college"
+    },
+    {
+      "id": 3,
+      "kode": "Laptop-03",
+      "nama": "Samsung Pro 14X OLED",
+      "harga": 16067000,
+      "is_ready": true,
+      "gambar": "laptop-samsung.jpg",
+      "specification": "Intel® Core™ i7-10510U Processor // NVIDIA® GeForce® MX250 // 16/1TB SSD // Layar 14 FHD (1920 x 1080) 16:9",
+      "for": "kerja/work"
+    },
+    {
+      "id": 4,
+      "kode": "Laptop-04",
+      "nama": "Vivobook Flip 14 TP401",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-satu.jpg",
+      "specification": "Windows 10 Home - ASUS recommends Windows 10 Pro for business Windows 11 Home - ASUS recommends Windows 11 Pro for business, Free Upgrade to Windows 11",
+      "for": "drakor/design"
+    },
+    {
+      "id": 5,
+      "kode": "Laptop-05",
+      "nama": "Lenovo Flip 14 TP412",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-dua.jpg",
+      "specification": "13.3 OLED 4K NanoEdge Display // 11th Gen Intel® Core™ i7 Processor // 16/1TB SSD",
+      "for": "kuliah/college"
+    },
+    {
+      "id": 6,
+      "kode": "Laptop-06",
+      "nama": "Samsung Pro 14X OLED",
+      "harga": 16067000,
+      "is_ready": true,
+      "gambar": "laptop-tiga.jpg",
+      "specification": "Intel® Core™ i7-10510U Processor // NVIDIA® GeForce® MX250 // 16/1TB SSD // Layar 14 FHD (1920 x 1080) 16:9",
+      "for": "kerja/work"
+    },
+    {
+      "id": 7,
+      "kode": "Laptop-07",
+      "nama": "Vivobook Flip 14 TP401",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-asus.jpg",
+      "specification": "Windows 10 Home - ASUS recommends Windows 10 Pro for business Windows 11 Home - ASUS recommends Windows 11 Pro for business, Free Upgrade to Windows 11",
+      "for": "drakor/design"
+    },
+    {
+      "id": 8,
+      "kode": "Laptop-08",
+      "nama": "Lenovo Flip 14 TP412",
+      "harga": 15000000,
+      "is_ready": true,
+      "gambar": "laptop-lenovo.jpg",
+      "specification": "13.3 OLED 4K NanoEdge Display // 11th Gen Intel® Core™ i7 Processor // 16/1TB SSD",
+      "for": "kuliah/college"
+    },
+    {
+      "id": 9,
+      "kode": "Laptop-09",
+      "nama": "Samsung Pro 14X OLED",
+      "harga": 16067000,
+      "is_ready": true,
+      "gambar": "laptop-samsung.jpg",
+      "specification": "Intel® Core™ i7-10510U Processor // NVIDIA® GeForce® MX250 // 16/1TB SSD // Layar 14 FHD (1920 x 1080) 16:9",
+      "for": "kerja/work"
+    }
+  ],
+  "Cart": [],
+  "Checkout": []
+}

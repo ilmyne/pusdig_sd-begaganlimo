@@ -1,0 +1,104 @@
+{
+    "Most-Wanted": [
+        {
+            "id": 1,
+            "kode": "Laptop-01",
+            "nama": "Vivobook Flip 14 TP401",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-satu.jpg"
+        },
+        {
+            "id": 2,
+            "kode": "Laptop-02",
+            "nama": "Lenovo Flip 14 TP412",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-dua.jpg"
+        },
+        {
+            "id": 3,
+            "kode": "Laptop-03",
+            "nama": "Samsung Pro 14X OLED",
+            "harga": 16067000,
+            "is_ready": true,
+            "gambar": "laptop-tiga.jpg"
+        }
+    ],
+    "Products": [
+        {
+            "id": 1,
+            "kode": "Laptop-01",
+            "nama": "Vivobook Flip 14 TP401",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-asus.jpg"
+        },
+        {
+            "id": 2,
+            "kode": "Laptop-02",
+            "nama": "Lenovo Flip 14 TP412",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-lenovo.jpg"
+        },
+        {
+            "id": 3,
+            "kode": "Laptop-03",
+            "nama": "Samsung Pro 14X OLED",
+            "harga": 16067000,
+            "is_ready": true,
+            "gambar": "laptop-samsung.jpg"
+        },
+        {
+            "id": 4,
+            "kode": "Laptop-04",
+            "nama": "Vivobook Flip 14 TP401",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-satu.jpg"
+        },
+        {
+            "id": 5,
+            "kode": "Laptop-05",
+            "nama": "Lenovo Flip 14 TP412",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-dua.jpg"
+        },
+        {
+            "id": 6,
+            "kode": "Laptop-06",
+            "nama": "Samsung Pro 14X OLED",
+            "harga": 16067000,
+            "is_ready": true,
+            "gambar": "laptop-tiga.jpg"
+        },
+        {
+            "id": 7,
+            "kode": "Laptop-07",
+            "nama": "Vivobook Flip 14 TP401",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-asus.jpg"
+        },
+        {
+            "id": 8,
+            "kode": "Laptop-08",
+            "nama": "Lenovo Flip 14 TP412",
+            "harga": 15000000,
+            "is_ready": true,
+            "gambar": "laptop-lenovo.jpg"
+        },
+        {
+            "id": 9,
+            "kode": "Laptop-09",
+            "nama": "Samsung Pro 14X OLED",
+            "harga": 16067000,
+            "is_ready": true,
+            "gambar": "laptop-samsung.jpg"
+        }
+    ],
+    "Cart": [],
+    "Checkout": []
+}

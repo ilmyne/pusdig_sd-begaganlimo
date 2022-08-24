@@ -1,0 +1,2 @@
+to run db.json
+json-server --watch db.json
